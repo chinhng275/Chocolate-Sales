@@ -1,4 +1,4 @@
-<h1 align="center"> Chocolate Sales Analysis - Power BI Visualization Guide</h1>
+<h1 align="center"> Chocolate Sales Analysis - Power BI Visualization</h1>
 
 ![image](https://github.com/user-attachments/assets/b7b8636a-4e37-4c5b-a611-896ef0b6f9f9)
 
